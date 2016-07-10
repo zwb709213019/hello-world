@@ -1,3 +1,6 @@
-# hello-world
-wulala
-I am a ugly boy,so ugly that once you see me,you will die.
+#include<stdio.h>
+int main(){
+
+    printf("hello world!");
+    return 0;
+}
